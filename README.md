@@ -55,3 +55,5 @@ The web application allows users to interact with the trained model through a us
 
 2. **Get Prediction**:
    - Once an image is uploaded, the user can click to retrieve predictions. The uploaded image is read, resized, and fed into the model for classification. The result is displayed on the webpage.
+
+**Demo** : https://drive.google.com/file/d/1Fa3c8A-tvAJblfip-2vZMkzbxDllQVCA/view?usp=share_link
