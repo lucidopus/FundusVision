@@ -1,4 +1,4 @@
-# Cataract Detection Project
+# Cataract Detection using Transfer Learning
 
 This project implements a deep learning model using **VGG19** to classify fundus images as either "Normal" or "Cataract". Additionally, it provides a **Flask** web application where users can upload fundus images and receive predictions on the likelihood of cataracts. The model is trained on a dataset of labeled fundus images, preprocessed and prepared in Google Colab.
 
